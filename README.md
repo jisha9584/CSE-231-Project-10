@@ -15,7 +15,7 @@ This script is a Python implementation of the classic solitaire card game. It si
 1. Perform moves like transferring cards from tableau to foundation, waste to tableau, and stock to waste.
 2. Restart the game at any time.
 3. Check for win conditions after each move.
-4. User-Friendly Interface: A menu-driven approach for making moves, restarting the game, or quitting.
+**User-Friendly Interface:** A menu-driven approach for making moves, restarting the game, or quitting.
 **Error Handling:** Provides feedback on invalid moves and guides the player on legal moves.
 
 <br>
